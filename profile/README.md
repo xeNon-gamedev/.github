@@ -4,7 +4,7 @@
 </div>
 
 > <h1>What is “xe-Non”</h1>
-<h3>xe-Non is a Japanese software development team founded by three technical college students.</h3>
+<h3>xe-Non is a Japanese game developer team founded by three technical college students.</h3>
 <br>
 
 > <h1>Key members</h1>
