@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/64a1ecf9-8b13-4d8a-9943-da81dce89edc" width="500">
+  <img src="https://github.com/xeNon-gamedev/.github/blob/main/contents/cl_logo.png" width="500">
   <img src="https://github.com/user-attachments/assets/6e75cd56-8561-4181-ae2a-a159fa558ad7" width="400">
 </div>
 
