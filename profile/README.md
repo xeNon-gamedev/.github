@@ -21,20 +21,9 @@
     </td>
   </tr>
   <tr>
-    <td align="center">gramme-linkcom</td>
-    <td align="center">kinoko0518</td>
-    <td align="center">Andy-mohumaru</td>
-  </tr>
-  <tr>
-    <td align="center">
-      <a href="https://github.com/gramme-linkcom">Profile</a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/kinoko0518">Profile</a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/Andy-mohumaru">Profile</a>
-    </td>
+    <td align="center"><a href="https://github.com/gramme-linkcom">gramme-linkcom</a></td>
+    <td align="center"><a href="https://github.com/kinoko0518">kinoko0518</a></td>
+    <td align="center"><a href="https://github.com/Andy-mohumaru">Andy-mohumaru</a></td>
   </tr>
 </table>
 <br>
