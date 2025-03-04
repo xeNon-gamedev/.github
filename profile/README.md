@@ -3,11 +3,11 @@
   <img src="https://github.com/user-attachments/assets/6e75cd56-8561-4181-ae2a-a159fa558ad7" width="400">
 </div>
 
-> <h1>What is “xe-Non”</h1>
+> <h1>❓What is “xe-Non”</h1>
 <h3>xe-Non is a Japanese game developer team founded by three technical college students.</h3>
 <br>
 
-> <h1>Key members</h1>
+> <h1>👥Key members</h1>
 <table align="center">
   <tr>
     <td width="33%" align="center">
@@ -39,13 +39,16 @@
 </table>
 <br>
 
-> <h1>Tools we use</h1>
-- Godot4
-- Blender
+> <h1>🔧Tools we use</h1>
+- <h3>Godot4</h3>
+- <h3>Blender</h3>
 <br>
 
-> <h1>Ongoing Projects</h1>
-<p>We are currently developing a new type of high-speed puzzle action game (tentative title).</p>
+> <h1>📃Ongoing Projects</h1>
+>
+> > <h1> Etoile ( Unpublished・In production ) </h1>
+> > <p>We are working on a new and exhilarating game in which you clear a stage by using various game consoles that you are familiar with or by successfully coordinating the machines in the city.</p>
+> > <p>Please wait for further announcements...</p>
 
 
 
