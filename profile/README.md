@@ -40,7 +40,7 @@
 > > <p>Please wait for further announcements...</p>
 
 > <h1>Official Site</h1>
-- <a href="https://www.xenon.com">Link</a>
+- <a href="https://www.xe-non.com">Link</a>
 
 
 
