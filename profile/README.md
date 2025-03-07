@@ -39,5 +39,8 @@
 > > <p>We are working on a new and exhilarating game in which you clear a stage by using various game consoles that you are familiar with or by successfully coordinating the machines in the city.</p>
 > > <p>Please wait for further announcements...</p>
 
+> <h1>Official Site</h1>
+- <a href="https://www.xenon.com">Link</a>
+
 
 
