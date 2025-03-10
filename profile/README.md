@@ -1,13 +1,14 @@
 <div align="center">
-  <img src="https://github.com/xeNon-gamedev/.github/blob/main/contents/cl_logo.png" width="800">
-  <img src="https://github.com/xeNon-gamedev/.github/blob/main/contents/419010777-6e75cd56-8561-4181-ae2a-a159fa558ad7.png" width="800">
+  <img src="https://github.com/xeNon-gamedev/.github/blob/main/contents/cl_logo.png" width="100%">
 </div>
 
-> <h1>❓What is “xe-Non”</h1>
-<h3>xe-Non is a Japanese game developer team founded by three technical college students.</h3>
-<br>
+# ✨ About xe-Non
+**❤️ We espouse open source! / 🩵[Twitter](https://x.com/xenon_vgdev) / 🔗[Official Site](https://xe-non.com/)**
 
-> <h1>👥Key members</h1>
+We are a game developing team, and all of us are Japanese KOSEN(NIT) students.
+
+
+# 👥 Key members
 <table align="center">
   <tr>
     <td width="33%" align="center">
@@ -28,19 +29,19 @@
 </table>
 <br>
 
-> <h1>🔧Tools we use</h1>
-- <h3>Godot4</h3>
-- <h3>Blender</h3>
-<br>
+# We are working on...
+## ✨[Etoile](https://github.com/xeNon-gamedev/Etoile-Inquiry/)
+<img src="https://github.com/user-attachments/assets/ae8364c4-b244-4d1c-86d9-03c09f23674d" width="225">
 
-> <h1>📃Ongoing Projects</h1>
->
-> > <h1> Etoile</h1>
-> > <p>We are working on a new and exhilarating game in which you clear a stage by using various game consoles that you are familiar with or by successfully coordinating the machines in the city.</p>
-> > <p>Please wait for further announcements...</p>
+Do you wanna beat yokais by hitting with GameCube? If you want, this is the best choise, definitely.
 
-> <h1>Official Site</h1>
-- <a href="https://www.xe-non.com">Link</a>
+Japanese demon yakuzas, yokais of tv-monitor... there are a lot of unique enemies in the world of Etoile.
 
+# 🛠️ Developing Enviroments
+We can develop games by the contributions of the great communities of
 
+<a href="https://www.blender.org/"><img src="https://download.blender.org/branding/blender_logo.png" width="300"></a>
 
+<a href="https://godotengine.org/"><img src="https://godotengine.org/assets/press/logo_large_color_dark.png" width="300"></a>
+
+<a href="https://krita.org/"><img src="https://krita.org/images/krita-logo-dark.svg" width="300"></a>
